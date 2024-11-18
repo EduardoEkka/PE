@@ -138,5 +138,86 @@
     - Dharma
     - Artha
     - Kama
-    - Moksha
-    
+    - Moksha (Mukti, Apavarya, Nirvana, Kaivalya)
+- <u>**4 Stages of Hindu Life**</u>
+    1) Student Stage: Brahmachari Ashrama
+    2) Second Stage: Grihastya Ashrama
+    3) Third Stage: Vanaprasta Ashrama
+    4) Last Stage: Sanyasa
+- <u>**Karma**</u>
+    - Sanchita Karma (stored)
+    - Prarabadha Karma (matured)
+    - Kriyamana Karma
+    - Agami Karma
+- Karma Yoga
+- <u>**Bhagavat Gita**</u>
+    1) Bhagvat Gita: Chapter 2, Verse 47
+    2) Bhagvat Gita: Chapter 2, verse 38
+- <u>**Vedantic view of life and Ethics**</u>
+    - <u>Features of Vedantic Life</u>
+        1) Reasoning
+        2) Ego
+        3) Selfishness
+        4) Universe
+- <u>**Lessons from Ramayana and MahaBharata**</u>
+    1) Ramayana
+        - Duty based society
+        - Deeds of great men and women
+        - Humanness, equality of being human
+        - Brotherhood
+        - Obedience to moral law
+        - Firmness of character
+        - Honesty
+        - Sacrifice
+        - Boundless good for entire mankind
+    2) Mahabharata
+        - Concept of right or wrong
+        - Performance of righteous duties
+        - Dharma for attainment of the highest good
+        - Dharma alone 
+        - Giver of prosperity and spiritual good
+- <u>**Views of Mahatma Gandhi**</u>
+    - Life integrated as a whole
+    - Growing for the truth to truth and non-violence
+    - Single standard of Conduct
+        - Dharma of truth
+        - Non violence  
+    - Morality is inseparable with the conception of law and religion
+    - <u>Seven deadly sins in human life</u>
+        1) Pleasure without Conscience
+        2) Knowledge without Character
+        3) Commerce without Morality
+        4) Science without Humanity
+        5) Religion without Sacrifice
+        6) Politics without Principles
+    - <u>Aspects of Ethical Life</u>
+        1) Non violence
+        2) Truth
+        3) No stealing
+        4) Celibacy 
+        5) Non possessiveness
+        6) Character
+- <u>**Views of Vivekananda**</u>
+    - <u>Main Contributions in ethical life</u>
+        1) Humanism
+        2) Divinity of Soul
+        3) Synthesis of Materialism and Spirituality
+        4) World Peace and Brotherhood
+    - <u>Views on Good Life and Decision making</u>
+        1) Vedantic Philosophy
+        2) Yoga
+        3) Will Power
+        4) Reason and Rationality
+        5) Selfishness
+
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+<h3>Bhagvat Gita: Chapter 2 verse 38</h3>
+<p style="text-decoration: underline">sukha-duhkhe same kritva labhalabhau jayajayau, tato yuddhaya yujyasva naivam papam avapsyasi</p>
+<p>Fight for the sake of duty, treating alike happiness and distress, loss and gain, victory and defeat. Fulfilling your responsibility in this way, you will never incur sin.</p>
+</div>
+
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+<h3>Bhagvat Gita: Chapter 2 verse 47</h3>
+<p style="text-decoration: underline">karmany evadhikaras te ma phalesu kadacana, ma karmaphalahetur bhur ma te sango stvakarmani</p>
+<p>You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.</p>
+</div>
